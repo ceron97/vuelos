@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+#footer{
+    bottom: 0;
+    width: 100%;
+}
+
+#secctionInfo{
+    padding-top: 10px;
+}
+
+.contenedorCuerpo{
+    min-height: calc(100vh - 85.2px - 186.2px);
+}
